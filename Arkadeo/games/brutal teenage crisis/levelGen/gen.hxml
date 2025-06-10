@@ -1,9 +1,0 @@
--cp src
--cp ..
--swf swf/BrutalityGenerator.swf
--swf-header 1280:800:30:FFFFFF
---flash-strict
--swf-version 11.4
--main Main
--D genTest
--D spriteParticles
