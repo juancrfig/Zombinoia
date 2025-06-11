@@ -1,3 +1,0 @@
-
-import flash.display.Bitmap;
-    

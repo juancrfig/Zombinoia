@@ -1,2 +1,0 @@
-all:
-	haxe project.hxml

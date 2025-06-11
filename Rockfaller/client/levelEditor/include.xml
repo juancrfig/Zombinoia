@@ -1,6 +1,0 @@
-<extension>
-	<source path="src" />
-	<source path=".." />
-	<source path="../../src/com" />
-	<source path="../client/assets"/>
-</extension>

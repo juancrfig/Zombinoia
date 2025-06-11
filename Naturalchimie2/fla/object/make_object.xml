@@ -1,5 +1,0 @@
-<swf>
-	<base file="./swf/object.swf" width="48" height="48" version="8"/>
-	<mark file="./swf/object.swf" output="./swf/object.swf"/>
-	<output file="../../../website/www/swf/object.swf"/>
-</swf>

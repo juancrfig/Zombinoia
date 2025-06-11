@@ -1,8 +1,0 @@
--cp ../api
--cp src
-Manager
--swf swf/_game.swf@90D*
--swf-lib swf/gfx.swf
--D swf-mark
--cmd swfmake
---flash-strict

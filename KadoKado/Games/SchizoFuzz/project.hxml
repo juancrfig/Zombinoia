@@ -1,9 +1,0 @@
-# Game
--swf swf/_game.swf@90D*
--swf-lib swf/_gfx.swf
-Manager
--cp src
--cp ../api
---flash-strict
--D swf-mark
--cmd swfmake

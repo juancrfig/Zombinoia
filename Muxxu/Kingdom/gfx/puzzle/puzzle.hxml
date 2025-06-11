@@ -1,8 +1,0 @@
-# Puzzle
--swf ../../www/swf/puzzle.swf
--swf-lib gfx.swf
--main Puzzle
--D swf-mark
--cmd swfmake
--cp ../../src
--cp ../../../base/com
